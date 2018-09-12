@@ -11,3 +11,4 @@ Creating a new branch is quick AND simple.
 
 add a branch dev
 
+fix a bug
